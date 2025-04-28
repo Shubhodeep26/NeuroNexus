@@ -1,5 +1,3 @@
-# NeuroNexus
-
 # Google Form-Like Web Form
 
 This project is a simple, stylish web form built using only **HTML** and **CSS**. It is designed to resemble a basic Google Form, featuring smooth animations and full mobile responsiveness.
@@ -75,12 +73,6 @@ Want to make it your own? Here’s how:
 
 ## 📸 Preview
 
-> *(Optional: Add a screenshot here if you want!)*
-
----
-
-## 📜 License
-
-This project is open-source and free to use.
+![Form Preview](./Screenshot%202025-04-28%20225248.png)
 
 ---
